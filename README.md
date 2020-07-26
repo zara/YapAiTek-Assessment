@@ -1,8 +1,8 @@
 # YapAiTek-Assessment
 
 # PSI Prediction in Singapore
-# Zahra Ebrahimi 07/26/2020
-# YapAiTek-Assessment
+
+Zahra Ebrahimi 07/26/2020
 
 1)	Load data and preparing 
 •	Convert 'timestamp' column to date/time type
